@@ -1,4 +1,5 @@
 # 👨‍💻 Cătă's Pentesting Portfolio
+![exploit imaginar](images/imagine%202.png)
 
 Bine ai venit! Aici îmi documentez progresul în învățarea cybersecurity-ului ofensiv.  
 Folosesc acest repo pentru:
